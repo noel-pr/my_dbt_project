@@ -1,4 +1,4 @@
-select CONCAT(order_id, '_', product_id) AS order_item_id_y,
+select CONCAT(order_id, '_', product_id) AS order_item_id_x,
  order_id,
  product_id,
  1 AS column_1,
